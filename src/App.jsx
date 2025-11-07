@@ -15,7 +15,7 @@ export default function App() {
       <Contact />
       <footer className="border-t bg-white/70">
         <div className="mx-auto max-w-6xl px-4 py-8 text-center text-sm text-gray-600">
-          © {new Date().getFullYear()} Your Name — Built with React, Tailwind & Spline
+          © {new Date().getFullYear()} Aaditya Kumar — Built with React, Tailwind & Spline
         </div>
       </footer>
     </div>
